@@ -103,7 +103,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ---
 
 ## ✍️ Author
-**Your Name**
+**Goutam Jat**
 
 ---
 
